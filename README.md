@@ -1,6 +1,6 @@
 # xlib
-Convenient C++ libray for scientifc software development
+Convenient C++ libray for scientifc software development.
 The xlib include the following useful classes:
-+ xMemory
-+ xString
++ xMemory - memory handling class.
++ xString - convenient string handling class.
 + xArray
